@@ -1,0 +1,10 @@
+X = 4
+Y = 5
+W = resultado
+
+leia X
+leia Y
+
+W = X + Y
+
+então escreva W
