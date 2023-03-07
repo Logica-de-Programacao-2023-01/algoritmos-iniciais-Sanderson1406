@@ -1,0 +1,6 @@
+leia lista
+
+então some todos os valores e divida pela quantidade de 
+itens
+
+então mostre o resultado
