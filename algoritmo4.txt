@@ -1,0 +1,13 @@
+N = numero inserido pelo usuario
+
+leia N
+indentifique qual o valor de N
+faça N * P = Y
+sendo N - 1 = P
+se P = 0 
+ então exiba Y
+senão comece novamente
+sendo N = Y
+sendo P != 0
+ então escreva Y
+senao comece novamente
