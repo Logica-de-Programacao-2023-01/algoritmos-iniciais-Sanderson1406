@@ -11,3 +11,11 @@ sendo N = Y
 sendo P != 0
  então escreva Y
 senao comece novamente
+
+Correção: 
+
+leia X
+var resultado = 1
+para cada numero entre 1 e x, faça:
+ resultado = resultado * numero_atual
+escreva resultado

@@ -1,1 +1,9 @@
 .
+Correção
+
+leia X
+leia potencia
+var resultado = X
+para cada numero entre 1 e potencia, faça:
+   resultado = resultado * X
+  escreva potencia

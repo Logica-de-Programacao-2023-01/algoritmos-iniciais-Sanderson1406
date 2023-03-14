@@ -16,3 +16,12 @@ leia U
 se U pertencer a P
  escreva "Esse numero e primo"
 senao escreva "Esse numero não é primo"
+
+Correção
+
+leia X
+para cada numero entre 2 e X-1, faça:
+  se X dividido por numero atual rem resto 0:
+     escreva "Não é primo"
+     fim
+  escreva "É primo"
