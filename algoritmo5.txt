@@ -1,0 +1,7 @@
+lista de itens
+X = item que o usuario quer
+
+leia X
+procure X na lista
+então indentifique a posicao de X
+escreva a posicao na tela
