@@ -1,4 +1,11 @@
-.
+leia X
+leia pot
+y = resultado
+
+para cada numero entre 1 e pot, faça: 
+  y = y * X
+  escreva pot
+
 Correção
 
 leia X
