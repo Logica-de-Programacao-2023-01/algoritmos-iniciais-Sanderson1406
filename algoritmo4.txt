@@ -12,7 +12,7 @@ sendo P != 0
  então escreva Y
 senao comece novamente
 
-Correção: 
+CORREÇÃO
 
 leia X
 var resultado = 1

@@ -6,7 +6,7 @@ procure X na lista
 então indentifique a posicao de X
 escreva a posicao na tela
 
-Correção
+CORREÇÃO
 
 leia X
 leia lista

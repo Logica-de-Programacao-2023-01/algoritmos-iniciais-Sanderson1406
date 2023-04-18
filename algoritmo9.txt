@@ -1,5 +1,11 @@
+leia capital
+leia taxa
+capital + taxa = montante
+leia tempo
+resultado = capita * (1 + taxa) ^* tempo
+ então escreva resultado
 
-Correção
+CORREÇÃO
 
 leia capital_inicial
 leia taxa_juros

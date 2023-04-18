@@ -1,3 +1,11 @@
+leia X
+X = "lista"
+W = media
+some todos os itens da lista e divida pela quantidade de itens
+ então ecreva W
+
+CORREÇÃO
+
 leia lista
 
 então some todos os valores e divida pela quantidade de 

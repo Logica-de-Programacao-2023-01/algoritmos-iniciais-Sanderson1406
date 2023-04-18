@@ -9,7 +9,7 @@ para cada pesos, faça:
 media= numeros / pesos
 escreva media
 
-Correção
+CORREÇÃO
 
 1: leia lista_numeros
 2: leia lista_pesos

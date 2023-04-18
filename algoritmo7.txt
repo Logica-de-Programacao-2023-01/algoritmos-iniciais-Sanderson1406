@@ -17,7 +17,7 @@ se U pertencer a P
  escreva "Esse numero e primo"
 senao escreva "Esse numero não é primo"
 
-Correção
+CORREÇÃO
 
 leia X
 para cada numero entre 2 e X-1, faça:

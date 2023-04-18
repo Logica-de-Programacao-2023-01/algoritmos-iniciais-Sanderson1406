@@ -6,7 +6,7 @@ para cada numero entre 1 e pot, faça:
   y = y * X
   escreva pot
 
-Correção
+CORREÇÃO
 
 leia X
 leia potencia

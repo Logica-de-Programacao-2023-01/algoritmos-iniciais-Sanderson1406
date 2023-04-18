@@ -1,3 +1,14 @@
+leia X
+
+
+se X for C
+faça X * 1.8 + 32
+então escreva X em F
+  senão faça X - 32/ 1.8
+ então escreva X em C
+
+CORREÇÃO
+
 U = X c/f
 
 leia U
